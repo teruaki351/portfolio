@@ -1,0 +1,338 @@
+@media screen and (max-width: 1000px){
+
+    .header {
+        background-color: #f0f8ed;
+        position: fixed;
+        width: 100%;
+        opacity: 0.5;
+      }
+      
+      .nav {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+      }
+      
+      .nav_item {
+        margin: 0px 50px 0;
+      }
+      
+      .nav_items {
+        list-style: none;
+        float: left;
+        padding: 10px;
+      }
+      
+      .header_content {
+        padding: 0px;
+        margin: 0;
+      }
+      
+      .scrollbox1 {
+        background-color: blue;
+        color: red;
+        height: 800px;
+      }
+      
+      .img-bg-01 {
+        background-image: url("niko-photos-tGTVxeOr_Rs-unsplash.jpg");
+        width: 100%;
+        min-height: 800px;
+      }
+      
+      .parallax-bg-1 {
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .main1 {
+        width: 100%;
+        display:block
+      }
+      
+      .main1 h1 {
+        color: white;
+        letter-spacing: 5px;
+        word-spacing: 10px;
+        font-size: 40px;
+        text-align: center;
+        padding:0 20px;
+        width:100%;
+      }
+
+      .main1_mini {
+        display:none;
+      }
+      
+      .main2 {
+        width: 100%;
+        height: auto;
+        padding: 40px 0 40px;
+      }
+
+      .main2_content {
+        display: block;
+        text-align: center;
+        
+        padding: 40px 20px;
+      }
+      
+      .main2_profile {
+        display: block;
+        height: 400px;
+        width: 50%;
+        margin: 20px auto;
+        background-image: url("william-recinos-qtYhAQnIwSE-unsplash.jpg");
+        background-size: cover;
+        background-position: center;
+      }
+      
+      .main2_profile_2 {
+        background-color: white;
+        
+        margin: 0;
+        text-align: center;
+      }
+      
+      .img-bg-02 {
+        background-image: url("laptop-2838917_1280.jpg");
+        width: 100%;
+        height: 400px;
+      }
+      
+      .parallax-bg-2 {
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+      
+      .main3 h2 {
+        text-align: center;
+        padding: 20px 0px;
+        color: white;
+      }
+      
+      .main3_skills {
+        text-align: center;
+      }
+      
+      .items h4 {
+        margin: 20px auto;
+        font-size: 28px;
+      }
+      
+      .fab {
+        margin: 10px auto;
+      }
+      
+      .items p {
+        margin: 20px auto;
+      }
+      
+      .skill-item {
+        display: flex;
+        justify-content: center;
+        padding:0px;
+      }
+      
+      .items {
+        margin: 0 30px;
+        color: white;
+      }
+      
+      .img-bg-03 {
+        background-image: url("beach-1852945_1280.jpg");
+        width: 100%;
+        height: 400px;
+      }
+      
+      .parallax-bg-3 {
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+      
+      .main4 h2 {
+        text-align: center;
+        padding: 20px 0px;
+        color: black;
+      }
+      
+      .main4_skills {
+        text-align: center;
+      }
+      
+      .item4 {
+        color: black;
+      }
+      
+      
+      
+      .main5_content {
+        margin: 0 auto;
+      }
+      
+      .main5 h5 {
+        padding: 10px 0 20px;
+        font-size: 32px;
+      }
+      
+      .main5_can {
+        display: flex;
+        justify-content: center;
+        padding: 0 30px;
+      }
+      
+      .main5_i {
+        width: 50%;
+        text-align: right;
+      }
+      
+      .box {
+        float: right;
+        width: 50%;
+      
+        height: 100%;
+        margin-right: 20px;
+        background-image: url("domenico-loia-EhTcC9sYXsw-unsplash.jpg");
+        background-size: cover;
+        background-position: center;
+      }
+      
+      .main5_txt {
+        width: 50%;
+        padding-left: 30px;
+      }
+      
+      .main5_txt h6 {
+        border-bottom: 1px solid rgba(156, 166, 160, 0.48);
+      }
+      
+      .can2 {
+        display: flex;
+        justify-content: center;
+        padding: 0px 30px;
+        margin: 40px 0px;
+      }
+      
+      .main5_2 {
+        width: 50%;
+        text-align: right;
+      }
+      
+      .box2 {
+        float: left;
+        width: 50%;
+      
+        height: 100%;
+        margin-left: 20px;
+        background-image: url("howard-bouchevereau-2jqnXBOsVgA-unsplash.jpg");
+        background-size: cover;
+        background-position: center;
+      }
+      
+      .main5_txt2 {
+        width: 50%;
+        padding-right: 30px;
+        text-align: right;
+      }
+      
+      .main5_txt2 h6 {
+        border-bottom: 1px solid rgba(156, 166, 160, 0.48);
+      }
+      
+      .main6 {
+        width: 100%;
+      }
+      
+      .main6_content {
+        padding: 20px 20px;
+        background-color: #d6e0f1;
+      }
+      
+      .main6 h2 {
+        text-align: center;
+        margin: 20px 0;
+      }
+      
+      .sns {
+        display:flex;
+        justify-content: center;
+      }
+      
+      .fa-twitter {
+        margin: 10px  20px 10px;
+        color:#6CA4F6;
+        font-size:4rem;
+      }
+      
+      .fa-facebook-square {
+        margin: 10px  20px 10px;
+        font-size:4rem;
+        color:#3D4E93;
+      }
+      
+      .fa-instagram {
+        margin: 10px  20px 10px;
+        font-size:4rem;
+        color:#C83ABB;
+      }
+      
+      .mail {
+        text-align: center;
+        display: block;
+        margin: 20px auto;
+        width: 350px;
+        height: 40px;
+        border-radius: 5px;
+        border: none;
+        padding: 0 20px;
+        text-align: left;
+      }
+      
+      .area {
+        text-align: center;
+        display: block;
+        margin: 20px auto;
+        width: 350px;
+        height: 120px;
+        border-radius: 5px;
+        border: none;
+        padding: 5px 20px;
+        text-align: left;
+      }
+      
+      .btn {
+        width:100px;
+        height:30px;
+        background-color: red;
+      }
+      
+      input {
+        display: block;
+      }
+      
+      .button {
+        background-color: #15A3B8;
+        width:100px;
+        padding:6px 12px;
+        margin:50px  20px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius: 5px;
+        border:none;
+        color:white;
+      }
+      
+      .contact {
+        text-align: center;
+        margin: 0 auto;
+      }
+}
